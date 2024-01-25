@@ -123,5 +123,5 @@ Steps:
 ### Conclusion
 
 The final design that I made had success in staying up for 30 seconds and being very tall. It reached a maximum height of 1.02 meters. This success came from lots of research and planning before creating the final product. To be made even better, others can look into thinner cylinders and see if they can keep the building up, since thinner cylinders would result in more cylinders, which would make to tower taller. 
-
+Under the sketches in [this Google Doc](https://docs.google.com/document/d/1mzYxjMGsE_MSOeL3XgI2k-a83mV3NweI-PS4f6lMASY/edit?usp=sharing), you can find a photo of what the final product looked like when another person used the same concept idea.
 You will make a brief comment on the success of your design and what next steps others might build on your work.
